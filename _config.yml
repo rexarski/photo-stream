@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: maxvoltar.photo
-email: tim@maxvoltar.be
+title: AirAvo
+email: qiurui416@gmail.com
 author:
   name: Tim Van Damme
   email: tim@maxvoltar.be #optional
